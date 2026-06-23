@@ -1,8 +1,8 @@
 ---
 title: AI Meeting Intelligence Agent
 emoji: 🧠
-colorFrom: violet
-colorTo: purple
+colorFrom: purple
+colorTo: indigo
 sdk: gradio
 sdk_version: 5.9.1
 app_file: app.py
